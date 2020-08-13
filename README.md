@@ -34,6 +34,3 @@ I'm not sure if there's anything in particular that makes my project **stand out
 * https://www.w3schools.com/html/html5_semantic_elements.asp - HTML Semantics Tutorial 
 * https://www.w3schools.com/html/html_accessibility.asp - HTML Accessibility Tutorial 
 * https://flexboxfroggy.com/ - Flexbox-Layout Game
-
-
-TESTING TESTING TESTING
