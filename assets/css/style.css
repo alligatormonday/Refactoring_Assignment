@@ -8,7 +8,7 @@ body {
     background: #d9dcd6;
 }
 
-/* Changed '.header' from a class property to a 'header' property for cleaner code */
+/* Changed '.header' from a class property to a 'header' tag property for cleaner code */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
